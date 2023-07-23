@@ -6,7 +6,7 @@ export default function Home(){
       <ul>
         <li><Link href="/rehan">Rehan</Link></li>
         <li><Link href="/leiza">Leiza</Link></li>
-        <li><Link href="/123">Mowahed</Link></li>
+        <li><Link href="/mowahed">Mowahed</Link></li>
       </ul>
     </main>
   )
