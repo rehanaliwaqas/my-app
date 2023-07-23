@@ -8,7 +8,8 @@ export default function Home(){
         <li><Link href="/leiza">Leiza</Link></li>
         <li><Link href="/mowahed">Mowahed</Link></li>
         <li><Link href="/haniye">Hanieya</Link></li>
-        <li><Link href="/muhammad">Muhammad</Link></li>
+        <li><Link href="/mowahed">Mowahed</Link></li>
+        <li><Link href="/yumna">Yumna</Link></li>
       </ul>
     </main>
   )
